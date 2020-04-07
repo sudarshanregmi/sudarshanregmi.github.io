@@ -18,15 +18,8 @@ Suppose you have a wardrobe containing a red shirt and two black shirts. Let’s
 
 The use of Markov’s property comes in Markov Decision Process. It can be defined as:
 
-a set of States
-a set of actions
-a set of rewards
-the probability that action A’ in state S’ in timestep t will lead to state S” with some reward in timestep t+1.
+1. a set of States
+2. a set of rewards
+3. the probability that action A’ in state S’ in timestep t will lead to state S” with some reward in     timestep t+1.
+
 The majority of research in the field of Reinforcement Learning assumes the Markov property. In simpler terms, many RL works assume that the information needed for the future steps are all contained in the present state and so we don’t need to remember anything about the past. This assumption simplifies the task in hand. Hence, Markov’s Decision Process helps to formulate the formal definition of a problem which we are tackling.
-
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
