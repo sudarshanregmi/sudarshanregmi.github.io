@@ -4,7 +4,7 @@ title: 'Reinforcement Learning, an introduction'
 published: true
 ---
 
-How did you learn to walk? Answer to this question will become more apparent after you think about the following question. How would you train your dog to do some specific tasks? The idea of giving your dog a reward after it performs the given task might not be a bad one. This small idea is what Reinforcement Learning is based upon.
+Let's start with a question. How did you learn to walk? Answer to this question will become more apparent after you think about the following question. How would you train your dog to do some specific tasks? The idea of giving your dog a reward after it performs the given task might not be a bad one. This small idea is what Reinforcement Learning is based upon.
 
 The idea of reinforcement learning is derived from human nature. We love it when our brain produces the dopamine hormone. So, we tend to do tasks that release dopamine hormones. In other words, we inherently want to gain more rewards on a continuous basis. “We” used in this context, in Reinforcement Learning, is referred to as an agent who performs the actions. Everything in reinforcement learning happens in something called the environment. The environment provides the state and based upon the actions performed by the agent, it provides the reward on the basis of policy function. The agent’s goal is to maximize the cumulative reward. In essence, RL is a learning process through interaction with the environment.
 
