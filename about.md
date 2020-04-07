@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Computer Engineering Undergraduate in Pulchowk Engineering College, Institute of Engineering
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have a deep interest in the applications of Deep Learning in Generative modeling and Natural Language Processing. Besides, I would love to work in Humanitarian AI, too. Also, in my free time, I love to solve algorithmic problems. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sudarshanregmi9@gmail.com](mailto:sudarshanregmi9@gmail.com)
