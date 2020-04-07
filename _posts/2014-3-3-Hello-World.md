@@ -1,14 +1,15 @@
 ---
 layout: post
-title: Reinforcement Learning, an introduction
+title: 'Reinforcement Learning, an introduction'
+published: true
 ---
 
 How did you learn to walk? Answer to this question will become more apparent after you think about the following question. How would you train your dog to do some specific tasks? The idea of giving your dog a reward after it performs the given task might not be a bad one. This small idea is what Reinforcement Learning is based upon.
 
 The idea of reinforcement learning is derived from human nature. We love it when our brain produces the dopamine hormone. So, we tend to do tasks that release dopamine hormones. In other words, we inherently want to gain more rewards on a continuous basis. “We” used in this context, in Reinforcement Learning, is referred to as an agent who performs the actions. Everything in reinforcement learning happens in something called the environment. The environment provides the state and based upon the actions performed by the agent, it provides the reward on the basis of policy function. The agent’s goal is to maximize the cumulative reward. In essence, RL is a learning process through interaction with the environment.
 
-Image result for reinforcement meaning reward state environment"
-Credit: Wikipedia
+![Credit: Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Reinforcement_learning_diagram.svg/250px-Reinforcement_learning_diagram.svg.png)
+
 As shown in the above figure, the agent does the action which is provided to the environment. Then, on the basis of the action provided by the agent and the current state, the environment provides rewards and states. As said before, the agent is trained to choose the action so as to maximize the reward.
 
 This brings us to the MDPs (Markov Decision Process). Before we try to understand MDP, first let’s know about Markov’s property. Any stochastic process is said to have Markov’s property if the probability distribution of the future state depends only on the present state, not on the past states. The following example will make things more clear.
