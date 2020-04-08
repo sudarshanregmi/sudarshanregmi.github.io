@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Computer Engineering Undergraduate in Pulchowk Engineering College, Institute of Engineering
+Computer Engineering Undergraduate in Pulchowk Engineering College, Institute of Engineering (Nepal)
 
 ### More Information
 
